@@ -1,4 +1,4 @@
-### Hi there, I'm Francesco Chiarantini 👋
+### Hi there, I'm Francesco 
 **Gameplay Programmer & Technical Game Designer**  
 Computer Science student at Sapienza University of Rome | Epic Games Certified (UE5)
 
